@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "SingleTwo"
   s.version      = "1.0.0"
-  s.summary      = "danli”
+  s.summary      = "danli"
   s.homepage     = "https://github.com/949699582/SingleTwo"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.authors      = { "zhouhongqiang" => "949699582@qq.com" }
